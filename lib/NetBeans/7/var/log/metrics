@@ -1,0 +1,10 @@
+<record>
+  <date>2013-02-17T14:30:58</date>
+  <millis>1361129458187</millis>
+  <sequence>23</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>25</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.java.j2seproject.J2SEProject</param>
+</record>

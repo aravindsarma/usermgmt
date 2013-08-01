@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.refactoring.api">
+    <module_version install_time="1351383628844" last="true" origin="NetBeans Distribution" specification_version="1.28.2.1">
+        <file crc="754191426" name="modules/locale/org-netbeans-modules-refactoring-api_ja.jar"/>
+        <file crc="2500167599" name="modules/locale/org-netbeans-modules-refactoring-api_pt_BR.jar"/>
+        <file crc="3672755508" name="modules/locale/org-netbeans-modules-refactoring-api_ru.jar"/>
+        <file crc="4283233268" name="modules/locale/org-netbeans-modules-refactoring-api_zh_CN.jar"/>
+        <file crc="660297798" name="config/Modules/org-netbeans-modules-refactoring-api.xml"/>
+        <file crc="2140268210" name="modules/org-netbeans-modules-refactoring-api.jar"/>
+    </module_version>
+</module>

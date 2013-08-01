@@ -1,0 +1,71 @@
+/* 
+    Document   : style
+    Created on : Jul 31, 2013, 1:51:03 PM
+    Author     : Vindian Smiles
+    Description:
+        Purpose of the stylesheet follows.
+*/
+@CHARSET "ISO-8859-1";
+
+root { 
+    display: block;
+}
+
+
+body{
+	color:#000000;
+	background-color:#ffffff;
+	font-family:arial, verdana, sans-serif;
+	font-weight:bold;
+	font-size:100%;
+}
+
+fieldset{
+	padding:10px;
+	width:500px;
+}
+
+label{
+	width:170px;
+	float:left;
+	text-align:right;
+	clear:both;
+	margin-bottom:10px;
+}
+
+.input {
+	width:300px;
+	float:left;
+}
+
+input {
+	border-style:solid;
+	border-color:#666666;
+	border-width:1px;
+	background-color:#f2f2f2;
+	font-size:100%;
+}
+
+input:focus {
+	border-style:solid;
+	border-color:#333333;
+	border-width:1px;
+	background-color:#ffffcc;
+}
+
+.submit {
+	clear:both;
+	margin-left:170px;
+}
+
+.submit input{
+	cursor:pointer;
+}
+
+.small {font-size:10px;}
+
+.required {
+	font-weight:bold;
+	font-size:20px;
+	color:#ff0000;
+}

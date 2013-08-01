@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.html.editor/2">
+    <module_version install_time="1351383625902" last="true" origin="NetBeans Distribution" specification_version="2.4.2">
+        <file crc="2567696513" name="modules/locale/org-netbeans-modules-html-editor_ja.jar"/>
+        <file crc="2837340124" name="modules/locale/org-netbeans-modules-html-editor_pt_BR.jar"/>
+        <file crc="761043500" name="modules/locale/org-netbeans-modules-html-editor_ru.jar"/>
+        <file crc="1194258211" name="modules/locale/org-netbeans-modules-html-editor_zh_CN.jar"/>
+        <file crc="2913530181" name="config/Modules/org-netbeans-modules-html-editor.xml"/>
+        <file crc="3385998137" name="docs/html-4.01.zip"/>
+        <file crc="3718689832" name="modules/org-netbeans-modules-html-editor.jar"/>
+    </module_version>
+</module>
